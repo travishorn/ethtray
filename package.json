@@ -1,0 +1,20 @@
+{
+  "name": "ethtray",
+  "version": "1.0.0",
+  "description": "Display current ETH-USD market price in the system tray.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travishorn/ethtray"
+  },
+  "author": "Travis Horn",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "~1.6.2",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}
