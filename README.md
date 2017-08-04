@@ -4,7 +4,7 @@ Display current ETH-USD market price in the system tray.
 
 ## Installation
 
-    git clone [repo address]
+    git clone https://github.com/travishorn/ethtray
 
 ## Run
 
